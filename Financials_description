@@ -1,0 +1,36 @@
+Sales & Performance Dashboard
+
+This Power BI project provides an interactive Sales and Performance Dashboard designed to track and analyze key business metrics. It helps stakeholders gain actionable insights into revenue trends, profitability, and geographic performance.
+
+Key Features
+
+KPIs & Metrics – Displays Total Sales, Total Profit, Total Units Sold, and Profit Ratio.
+Sales by Product & Segment – Visualizes sales distribution using Pie & Donut charts.
+Profit Trend Analysis – A line/bar chart showing profit performance over time.
+Geographical Insights – Interactive map showing sales by region/country.
+Filters for Drilldown – Year, Country, and Product filters for detailed analysis.
+Data Relationships – Integrated multiple fact and dimension tables with optimized data modeling for better performance.
+
+Technology Stack
+
+Power BI Desktop for data modeling, DAX calculations, and visualization.
+DAX Measures for KPIs (Total Sales, Profit Margin, etc.).
+Data Sources: (CSV, SQL, Excel – can customize based on your dataset).
+Interactive Slicers for Year, Country, and Product.
+
+
+Insights You Can Derive
+
+Identify top-performing products & segments.
+Track sales performance across different countries.
+Monitor profit trends and discover seasonal patterns.
+Compare sales performance year-over-year.
+
+Future Enhancements (Ideas)
+
+Add Forecasting using Power BI Analytics Pane.
+Dynamic Tooltips for deeper context on hover.
+Auto-refresh with Power BI Service for live data.
+Top N Products/Regions visual with dynamic ranking.
+Advanced DAX Measures (YOY growth, Profit Margin %).
+Integrate with GitHub Pages for project documentation.
